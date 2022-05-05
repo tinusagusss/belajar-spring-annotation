@@ -8,5 +8,10 @@ Dalam Project ini terdapat beberapa annotation yang diimplementasikan, diatanran
 * @Primary
 * @Scope
 * @Qualifier
-
-
+* @PostConstruct
+* @PreDestroy
+* @Configuration
+* @ComponentScan
+* @Import
+* @Autowired
+* @Import
